@@ -118,7 +118,7 @@ export default function Home() {
     <div className="app-shell">
       <nav className="site-nav" aria-label="Primary navigation">
         <a href="#top" className="brand-lockup" aria-label="Sifu Yik Hook Library home">
-          <span className="brand-seal"><img className="brand-mark" src="/manus-storage/sifu-yik-monogram_b50d3f9f.png" alt="Sifu Yik monogram" /></span>
+          <span className="brand-seal"><img className="brand-mark" src="/assets/sifu-yik-monogram.png" alt="Sifu Yik monogram" /></span>
           <span className="brand-word">SIFU YIK</span>
         </a>
         <div className="nav-meta">
