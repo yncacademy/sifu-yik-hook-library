@@ -5,3 +5,20 @@
 - [x] Add search, style and niche filters, hook/example copy controls, and inspiration-source links.
 - [ ] Add the Substack footer CTA: “Follow Sifu Yik for more AI Tips and News.”
 - [x] Verify desktop and mobile behavior, then create the delivery checkpoint.
+
+# GitHub Pages Deployment Checklist
+
+- [ ] Add GitHub Pages build workflow and custom-domain configuration.
+- [ ] Create the public yncacademy/sifu-yik-hook-library repository.
+- [ ] Publish the site through GitHub Pages and configure the custom domain.
+- [ ] Verify the deployed site and provide the required DNS record.
+
+**Note:** The GitHub Pages work is currently blocked until the GitHub connector is authorized for repository creation and Pages configuration.
+
+[/] GitHub authorization has been reconnected; resume repository and Pages setup.
+
+[ ] Prepare the project for the GitHub Pages workflow and custom domain.
+[ ] Create and publish the public GitHub repository.
+[ ] Configure Pages and verify the custom-domain path.
+[ ] Provide DNS instructions and handoff.
+
