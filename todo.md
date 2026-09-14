@@ -22,3 +22,10 @@
 [ ] Configure Pages and verify the custom-domain path.
 [ ] Provide DNS instructions and handoff.
 
+
+# GitHub Pages Blank-Screen Fix
+
+- [ ] Diagnose the blank deployed page and identify the failing asset or runtime path.
+- [ ] Patch the GitHub Pages base path, asset paths, or deployment configuration.
+- [ ] Redeploy and verify the live GitHub Pages URL.
+- [ ] Report the fix and any remaining custom-domain setup.

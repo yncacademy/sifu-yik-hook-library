@@ -23,7 +23,7 @@ type HookRecord = {
   sourceStatus: string;
 };
 
-const DATA_URL = "/manus-storage/sifu-yik-hooks-data_76749bd8.json";
+const DATA_URL = "/data/hooks.json";
 const PAGE_SIZE = 18;
 
 function countBy<T>(items: T[], key: (item: T) => string) {

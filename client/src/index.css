@@ -78,7 +78,7 @@ button, a, select { -webkit-tap-highlight-color: transparent; }
   display: grid;
   align-items: end;
   padding: 72px 4.5vw 82px;
-  background-image: linear-gradient(90deg, rgba(6, 23, 15, 0.97) 0%, rgba(6, 23, 15, 0.86) 45%, rgba(6, 23, 15, 0.24) 100%), url("/manus-storage/sifu-yik-hook-library-hero_596cf813.jpg");
+  background-image: linear-gradient(90deg, rgba(6, 23, 15, 0.97) 0%, rgba(6, 23, 15, 0.86) 45%, rgba(6, 23, 15, 0.24) 100%), url("/assets/sifu-yik-hook-library-hero.jpg");
   background-size: cover;
   background-position: center;
   border-bottom: 1px solid rgba(232, 239, 214, 0.1);
@@ -175,7 +175,7 @@ button, a, select { -webkit-tap-highlight-color: transparent; }
 @keyframes shimmer { to { background-position: -200% 0; } }
 
 .footer { margin-top: 10px; border-top: 1px solid rgba(232, 239, 214, 0.13); }
-.footer-cta { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 28px; padding: 56px 4.5vw; background-image: linear-gradient(90deg, rgba(6, 23, 15, 0.88), rgba(6, 23, 15, 0.42)), url("/manus-storage/sifu-yik-hook-library-discovery_36ed922b.jpg"); background-position: center; background-size: cover; }
+.footer-cta { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 28px; padding: 56px 4.5vw; background-image: linear-gradient(90deg, rgba(6, 23, 15, 0.88), rgba(6, 23, 15, 0.42)), url("/assets/sifu-yik-hook-library-discovery.jpg"); background-position: center; background-size: cover; }
 .footer-cta h2 { max-width: 670px; margin: 10px 0 0; font-family: "DM Serif Display", Georgia, serif; font-size: clamp(2rem, 4vw, 3.8rem); font-weight: 400; line-height: .98; letter-spacing: -.045em; }
 .footer-description { max-width: 560px; margin: 17px 0 0; color: #d7dfcb; font-size: 12px; line-height: 1.65; }
 .footer-cta .button-primary { white-space: nowrap; }
@@ -192,7 +192,7 @@ button, a, select { -webkit-tap-highlight-color: transparent; }
 @media (max-width: 820px) {
   .site-nav { padding: 0 20px; height: 66px; }
   .nav-meta { display: none; }
-  .hero { min-height: 475px; padding: 54px 20px 58px; background-image: linear-gradient(90deg, rgba(6, 23, 15, .95), rgba(6, 23, 15, .73)), url("/manus-storage/sifu-yik-hook-library-hero_596cf813.jpg"); }
+  .hero { min-height: 475px; padding: 54px 20px 58px; background-image: linear-gradient(90deg, rgba(6, 23, 15, .95), rgba(6, 23, 15, .73)), url("/assets/sifu-yik-hook-library-hero.jpg"); }
   .hero h1 { font-size: clamp(3.1rem, 14vw, 5rem); }
   .hero-ledger { margin-top: 38px; }
   .ledger-item { padding-right: 15px; margin-right: 15px; }
